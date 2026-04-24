@@ -1,4 +1,4 @@
-# vt-secondhand-prediction
+# Integrating visual and textual features for predicting outcomes in secondhand marketplaces
 This repository is to supplement the paper "Integrating visual and textual features for predicting outcomes in secondhand marketplaces".
 
 ## Abstract
